@@ -9,6 +9,7 @@ A simple tool to run The Binding of Isaac in borderless mode.
 
 ## Limitations
   - Require Repentance DLC (may be modified for other DLCs by editing window's name)
+  - May not work with [Repentogon](https://github.com/TeamREPENTOGON/REPENTOGON) mod
   - The game must be installed via Steam.
   - The patch is not permanent - you need to run the game using the tool every time.
 
